@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👨‍💻 Darshan S J
 
-<!--
-**darshanjayaram/darshanjayaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Engineer | AI Enthusiast**  
+📍 Bangalore, Karnataka, India  
+📧 darshansj.darshu@gmail.com | 📱 +917019963947
+🔗 [LinkedIn](https://www.linkedin.com/in/darshan-jayaram-b1049b169/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+Experienced Frontend Developer with 6 years of hands-on expertise in building responsive, accessible, and high-performance web applications. 
+
+---
