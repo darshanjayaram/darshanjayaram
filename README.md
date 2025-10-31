@@ -35,7 +35,7 @@ Experienced Frontend Developer with 6 years of hands-on expertise in building re
 
 ## 🏆 Certifications
 
-- **GUVI Zen Class Full Stack Developer Program **  
+- **GUVI Zen Class Full Stack Developer Program**  
   Covers React, Javascript, Redux, HTML, CSS, MongoDB, ExpressJS, NodeJS and MySQL
 
 - **React - The Complete Guide (2025)**  
