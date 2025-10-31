@@ -24,7 +24,7 @@ Experienced Frontend Developer with 6 years of hands-on expertise in building re
 - **Accessibility & SEO**: Semantic HTML, Structured data
 
 ### Back-End
-- **Technologies**: Node.js, Express.js
+- **Technologies**: Node.js, Express.js, PHP
 - **Databases**: MongoDB, MySQL
 - **DevOps & Tooling**: Git, Bitbucket, JIRA
 
