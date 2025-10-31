@@ -29,7 +29,7 @@ Experienced Frontend Developer with 6 years of hands-on expertise in building re
 - **DevOps & Tooling**: Git, Bitbucket, JIRA
 
 ### Methodologies
-- Agile, Scrum
+- Agile
 
 ---
 
